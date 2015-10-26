@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2015-10-25T10:29:41Z</Created>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>17460</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>460</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Helvetica Neue" ss:Size="12" ss:Color="#333333" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Helvetica Neue" ss:Size="12" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="10" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:StyleID="s66" ss:Width="16"/>
+   <Column ss:Width="142"/>
+   <Column ss:Width="175"/>
+   <Column ss:Width="63"/>
+   <Column ss:Width="75" ss:Span="1"/>
+   <Row>
+    <Cell><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">address</Data></Cell>
+    <Cell><Data ss:Type="String">lat</Data></Cell>
+    <Cell><Data ss:Type="String">lng</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pan Africa Market</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1521 1st Ave, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">47.608941</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-122.340145</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">restaurant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Buddha Thai &amp; Bar</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2222 2nd Ave, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.613591</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.344394</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">bar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">The Melting Pot</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">14 Mercer St, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.624562</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.356442</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">restaurant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ipanema Grill</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1225 1st Ave, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.606366</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.337656</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">restaurant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Sake House</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2230 1st Ave, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.612825</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.34567</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">bar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Crab Pot</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1301 Alaskan Way, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.605961</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.34036</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">restaurant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Mama's Mexican Kitchen</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2234 2nd Ave, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.613975</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.345467</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">bar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Wingdome</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1416 E Olive Way, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.617215</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.326584</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">bar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Piroshky Piroshky</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1908 Pike pl, Seattle, WA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">47.610127</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">-122.342838</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">restaurant</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
